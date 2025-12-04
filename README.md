@@ -3,7 +3,7 @@
 Siddhant Barguje 
 23BCE10113
 
-# Campus Course & Registtration System (CCRS)
+# Campus Course & Registration System (CCRS)
 
 Hey there! 👋 Welcome to my Java project, CCRS. If you’re looking for a practical way to learn Java, play with OOP, or just want a cool CLI app for campus management, you’re in the right place.
 
